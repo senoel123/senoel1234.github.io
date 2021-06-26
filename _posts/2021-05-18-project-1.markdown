@@ -1,0 +1,25 @@
+---
+layout: default
+modal-id: 1
+date: 2021-05-18
+img: cabin.png
+alt: image-alt
+project-date: May 2021
+client: Diamonds
+category: Visulization, data cleaning
+Working in data science it is easy to get caught up in number, graphs and other visualization tools.  It is east to forget that understanding what you are looking at and why one set of data is more valuable than other.  It is also important to understand what the data is not telling you.m.
+---
+
+![Heatmap Diamonds](/img/img_73.jpg)
+
+I decided to start working with small data sets beause it was easier to familiarize myself with data.  Diamonds are something that most people correlate size and price.  This sorrelation makes sense if you exclude the three C's which are cut, clarity and carat(weight). 
+
+![Clarity Diamonds](/images/img_79.jpg) 
+
+As I analyze the data I want to focus on how the color effected the price.
+
+![Price Diamonds](/images/img_82.jpg)
+
+As the chart indicated that the clearier the diamond the higher the price.  In fact a smaller diamond that is clear with limit to no inclusions or flaws can be more valuable than a larger diamond with less clarity.
+
+![Compare Diamonds](/images/img_76.jpg)

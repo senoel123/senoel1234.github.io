@@ -9,8 +9,8 @@ client: Diamonds
 category: Visulization, data cleaning
 Working in data science it is easy to get caught up in number, graphs and other visualization tools.  It is east to forget that understanding what you are looking at and why one set of data is more valuable than other.  It is also important to understand what the data is not telling you.m.
 ---
-
-![Heatmap Diamonds](/img/img_73.jpg)
+![image](/img/img_73.jpg)
+ 
 
 I decided to start working with small data sets beause it was easier to familiarize myself with data.  Diamonds are something that most people correlate size and price.  This sorrelation makes sense if you exclude the three C's which are cut, clarity and carat(weight). 
 
